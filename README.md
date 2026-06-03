@@ -1,3 +1,3 @@
 # Agrinho 2026
 
-oi
+O jogo tem a princípio de 
